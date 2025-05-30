@@ -5,7 +5,7 @@
     <nav
       class="navbar navbar-expand-md navbar-light"
       style="
-        background: linear-gradient(to right, #d62121, #22ab51);
+        background: linear-gradient(to right, #b20907, #131d41);
         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
       "
     >
@@ -118,7 +118,7 @@
           <ul class="navbar-nav flex-row flex-wrap">
             <li class="nav-item col-5 col-md-auto p-3">
               <a
-                href="https://wa.me/56956546146"
+                href="https://wa.me/56942645608"
                 target="_blank"
                 style="color: #49c958"
               >
@@ -128,12 +128,24 @@
             </li>
             <li class="nav-item col-5 col-md-auto p-3">
               <a
-                href="https://www.instagram.com/levelupestampados/"
+                href="https://www.instagram.com/a.r.covers2022/"
                 target="_blank"
                 style="color: #f56040"
               >
                 <b-icon-instagram />
                 <small class="d-md-none ms-2">Instagram</small></a
+              >
+            </li>
+            <li class="nav-item col-5 col-md-auto p-3">
+              <a
+                href="https://www.mercadolibre.cl/pagina/ej20240830034654"
+                target="_blank"
+              >
+                <img
+                  src="../assets/mercadolibre_logo.png"
+                  height="21px"
+                  alt="Logo de Mercado Libre"
+                /><small class="d-md-none ms-2">Mercado Libre</small></a
               >
             </li>
           </ul>
