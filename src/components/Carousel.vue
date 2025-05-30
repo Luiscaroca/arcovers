@@ -9,21 +9,21 @@
         <img
           src="../assets/placeholder.png"
           class="d-block w-100"
-          alt="..."
+          alt="placeholder"
         />
       </div>
       <div class="carousel-item">
         <img
           src="../assets/placeholder.png"
           class="d-block w-100"
-          alt="..."
+          alt="placeholder"
         />
       </div>
       <div class="carousel-item">
         <img
           src="../assets/placeholder.png"
           class="d-block w-100"
-          alt="..."
+          alt="placholder"
         />
       </div>
     </div>
@@ -37,7 +37,7 @@
         class="carousel-control-prev-icon"
         aria-hidden="true"
       ></span>
-      <span class="visually-hidden">Previous</span>
+      <span class="visually-hidden">Anterior</span>
     </button>
     <button
       class="carousel-control-next"
@@ -49,7 +49,7 @@
         class="carousel-control-next-icon"
         aria-hidden="true"
       ></span>
-      <span class="visually-hidden">Next</span>
+      <span class="visually-hidden">Siguiente</span>
     </button>
   </div>
 </template>
