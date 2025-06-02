@@ -1,6 +1,8 @@
 <template>
   <div>
     <Carousel />
+    <Sobre_nosotros />
+    <Como_comprar />
   </div>
 </template>
 
@@ -20,9 +22,13 @@ small {
 
 <script>
 import Carousel from "../components/Carousel.vue";
+import Como_comprar from "../components/Como_comprar.vue";
+import Sobre_nosotros from "../components/Sobre_nosotros.vue";
 export default {
   components: {
     Carousel,
+    Como_comprar,
+    Sobre_nosotros,
   },
 };
 </script>
